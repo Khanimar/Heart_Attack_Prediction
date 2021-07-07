@@ -1,3 +1,7 @@
+**Attention please**:
+To see the result of the latest version of the project, please refer to:
+https://www.kaggle.com/khanimar/heart-attack-prediction-eda
+
 # Heart_Attack_Prediction
 The problem that this project is going to anlyze is heart attack. The final objectives of this project is to use the provided data to perform the following tasks:  
 1. Performing EDA to obtain useful primary insights 
